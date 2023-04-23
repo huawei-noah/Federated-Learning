@@ -2,14 +2,14 @@
 
 This repo is for comparing different federated learning algorithms using standard benchmarking datasets. It contains methods for obtaining the datasets for each client, preprocessing, training and evaluating. Currently, we support the following FL algorithms:
 
+* Proportional Fairness in Federated Learning ([PropFair](https://openreview.net/forum?id=ryUHgEdWCQ))
 * Federated Averaging ([FedAvg](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)) 
 * Agnostic Federated Learning ([AFL](http://proceedings.mlr.press/v97/mohri19a/mohri19a.pdf))
 * q-Fair Federated Learning ([q-FFL](https://openreview.net/pdf?id=ByexElSYDr))
-* Proportional Fairness ([PropFair](https://arxiv.org/pdf/2202.01666.pdf))
 * Tilted Empirical Risk Miminization ([TERM](https://openreview.net/forum?id=K5YasWXZT3O))
 * FedMGDA+ ([FedMGDA+](https://ieeexplore.ieee.org/document/9762229/))
 * GIFAIR-FL ([GIFAIR-FL](https://pubsonline.informs.org/doi/full/10.1287/ijds.2022.0022))
-* PropFair ([PropFair](https://openreview.net/forum?id=ryUHgEdWCQ))
+
 
 
 ## Requirments
