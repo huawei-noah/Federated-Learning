@@ -65,3 +65,20 @@ python run.py --algorithm=FedAvg --device=0 --data_dir=split_0.8 --num_clients=1
 
 ## Safety notice
 Loading unwarranted pickle files may result in vulnerability of deserialization.
+
+## Citation
+
+Comments are welcome! Please use the following bib if you use our code in your research:
+
+```
+@article{
+zhang2023proportional,
+title={Proportional Fairness in Federated Learning},
+author={Guojun Zhang and Saber Malekmohammadi and Xi Chen and Yaoliang Yu},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2023},
+url={https://openreview.net/forum?id=ryUHgEdWCQ},
+note={}
+}
+```
