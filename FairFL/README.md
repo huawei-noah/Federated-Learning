@@ -1,6 +1,6 @@
 # Proportional Fairness in Federated Learning
 
-This repo is for comparing different federated learning algorithms using standard benchmarking datasets. It contains methods for obtaining the datasets for each client, preprocessing, training and evaluating. Currently, we support the following FL algorithms:
+This repo is for comparing different federated learning algorithms using standard benchmarking datasets, as done in our paper [Proportional Fairness in Federated Learning](https://openreview.net/forum?id=ryUHgEdWCQ). It contains methods for obtaining the datasets for each client, preprocessing, training and evaluating. Currently, we support the following FL algorithms:
 
 * Proportional Fairness in Federated Learning ([PropFair](https://openreview.net/forum?id=ryUHgEdWCQ))
 * Federated Averaging ([FedAvg](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)) 
