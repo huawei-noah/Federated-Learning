@@ -5,3 +5,5 @@ The repository is for federated learning and transfer learning projects inside H
 * Federated Domain Generalization: Incorporating domain generalization in the federated learning setting, based on the paper "[Mitigating Data Heterogeneity in Federated Learning with Data Augmentation](https://arxiv.org/abs/2206.09979)" by Artur Back de Luca*, Guojun Zhang*, Xi Chen, Yaoliang Yu.
 
 If you want to include your algorithms in one of our benchmarks, please make a pull request.
+
+This open source project is not an official Huawei product, Huawei is not expected to provide support for this project.

@@ -82,3 +82,5 @@ url={https://openreview.net/forum?id=ryUHgEdWCQ},
 note={}
 }
 ```
+
+This open source project is not an official Huawei product, Huawei is not expected to provide support for this project.
