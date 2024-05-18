@@ -1,0 +1,8 @@
+matplotlib==3.7.0
+numpy==1.22.3
+Pillow==9.5.0
+quadprog==0.1.11
+torch==1.13.1
+torchtext==0.14.1
+torchvision==0.14.1
+tqdm==4.64.1
